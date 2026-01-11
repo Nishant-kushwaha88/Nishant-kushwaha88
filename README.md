@@ -10,6 +10,7 @@ My main stack is Java, JavaScript, React.js, Node.js, MongoDB.
 I’ve built several projects, and I’m constantly working on improving my skills.
 
 Fun Facts:
+
 Love coding & problem solving
 Enjoy building side projects
 
