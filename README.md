@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey there!
 
-<!--
-**Nishant-kushwaha88/Nishant-kushwaha88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nishant Kumar Kushwaha, a CS undergraduate passionate about building real-world web apps and sharpening my problem-solving skills..
 
-Here are some ideas to get you started:
+I build mostly web applications and Full Stack projects.
+If an idea excites me, chances are I’ll build it and push it to GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is Java, JavaScript, React.js, Node.js, MongoDB.
+
+I’ve built several projects, and I’m constantly working on improving my skills.
+
+Fun Facts:
+Love coding & problem solving
+Enjoy building side projects
+
+
+
