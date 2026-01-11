@@ -13,7 +13,7 @@ Fun Facts:
 
 Love coding & problem solving
 
-Enjoy building side projects
+Enjoy building projects
 
 
 
