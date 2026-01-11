@@ -12,6 +12,7 @@ I’ve built several projects, and I’m constantly working on improving my skil
 Fun Facts:
 
 Love coding & problem solving
+
 Enjoy building side projects
 
 
