@@ -5,7 +5,7 @@ I’m Nishant Kumar Kushwaha, a CS undergraduate passionate about building real-
 I build mostly web applications and Full Stack projects.
 If an idea excites me, chances are I’ll build it and push it to GitHub.
 
-My main stack is Java, JavaScript, React.js, Node.js, MongoDB.
+My main stack is Java, JavaScript, React.js, Spring Boot, MongoDB, MySQL, JWT Authentication.
 
 I’ve built several projects, and I’m constantly working on improving my skills.
 
